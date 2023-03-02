@@ -1,0 +1,14 @@
+
+C:\Program Files\AutomationEdge\tools\process-studio-7.5.0-20230222.100009-23\process-studio\bin>Rem This is for starting tomcat server 
+
+C:\Program Files\AutomationEdge\tools\process-studio-7.5.0-20230222.100009-23\process-studio\bin>C:
+
+C:\Program Files\AutomationEdge\tools\process-studio-7.5.0-20230222.100009-23\process-studio\bin>cd C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62\bin 
+
+C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62\bin>startup.bat
+Using CATALINA_BASE:   "C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62"
+Using CATALINA_HOME:   "C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62"
+Using CATALINA_TMPDIR: "C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62\temp"
+Using JRE_HOME:        "C:\Program Files\AutomationEdge\tools\OpenJDK11U-jdk_x64_windows_hotspot_11.0.9_11\jdk-11.0.9+11"
+Using CLASSPATH:       "C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62\bin\bootstrap.jar;C:\Program Files\AutomationEdge\tools\apache-tomcat-9.0.62\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""

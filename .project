@@ -1,0 +1,9 @@
+#Project Settings
+#Thu Mar 02 10:11:21 IST 2023
+CreatedDate=Thu Mar 18 15\:49\:54 IST 2021
+Description=Automatic Upgrade and testing 
+MainFile=WF_Upgrade_new.psw
+ModifiedDate=Thu Mar 02 10\:11\:21 IST 2023
+Name=AutomateUpgradeProcess
+sharedWorkflowUsage=[]
+usedSharedWorkflows=[]
